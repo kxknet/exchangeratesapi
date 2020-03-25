@@ -113,3 +113,4 @@ Madis Väin (madisvain on Github, Twitter) is the original creator of the Exchan
 
 ## License
 MIT
+Достоверная информация про Коронавирус https://koronainetov.online
